@@ -6,7 +6,7 @@
 </br>
 <font color="pink">🌱 I am currently learning in-depth programming </font>
 </br>
-<font color="pink"> 🖥️ C#, C++, Python, Java, HTML, CSS,/font>
+<font color="pink"> 🖥️ C#, C++, Python, Java, HTML, CSS </font>
 </br>
 <font color="pink">☕ Coffee is how I keep up with code</font>
 
