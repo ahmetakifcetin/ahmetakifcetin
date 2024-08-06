@@ -21,6 +21,7 @@ I'm a Graphic Designer 🎨, UI & UX Designer 🖌️ and Web Developer 🌐
 
 
 <p></p>
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🌱 Areas I've Worked
