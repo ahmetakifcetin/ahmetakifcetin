@@ -15,10 +15,19 @@ I'm a Graphic Designer 🎨, UI & UX Designer 🖌️ and Web Developer 🌐
 
 ### 🤝 Connect with me:
 
+<a href="https://www.linkedin.com/in/ahmetakifcetin/"><img align="left" src="./assets/linkedin.png" alt="Ahmet Akif Cetin | LinkedIn" width="24px"/></a>
+<a href="https://instagram.com/"><img align="left" src="./assets/instagram.png" alt="Ahmet Akif Cetin | Instagram" width="24px"/></a>
+<a href="https://twitter.com/"><img align="left" src="./assets/twitter.png" alt="Ahmet Akif Cetin | Twitter" width="24px"/></a>
+<a href="https://www.behance.net/ahmetakifcetin/"><img align="left" src="./assets/behance.png" alt="Ahmet Akif Cetin | Behance" width="24px"/></a>
+<a href="https://github.com/ahmetakifcetin/"><img align="left" src="./assets/github.png" alt="Ahmet Akif Cetin | Github" width="24px"/></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetakifcetin/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ahmetakifcetin)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmetakifcetin/)
+<br>
+
+
+<p></p>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 ## 🌱 Areas I've Worked
 
 
