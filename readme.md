@@ -8,19 +8,35 @@
 Hi there, I'm Akif Cetin 👋
 </h3>
 
-<h2 align="center">
-I'm a Graphic Designer 🎨, UI & UX Designer 🖌️ and Web Developer 🌐
-</h2> 
+
+<h5 align="center">I'm a Graphic Designer 🎨, UI & UX Designer 🖌️ Full Stack Web Developer🌐</h5>
+
+<p align="center">
+Hello my name is Akif, I am a full stack web developer. I have been working on web development for more than 4 years. I do web development and user friendly interface designs. My goal is to make the applications I develop available for free. Developing and releasing applications as open source.
+</p> 
 
 
-### 🤝 Connect with me:
+<h1 align="center">Skills 🤹🏻</h1>
 
-<a href="https://www.linkedin.com/in/ahmetakifcetin/"><img align="left" src="./assets/linkedin.png" alt="Ahmet Akif Cetin | LinkedIn" width="24px"/></a>
-<a href="https://instagram.com/"><img align="left" src="./assets/instagram.png" alt="Ahmet Akif Cetin | Instagram" width="24px"/></a>
-<a href="https://twitter.com/"><img align="left" src="./assets/twitter.png" alt="Ahmet Akif Cetin | Twitter" width="24px"/></a>
-<a href="https://www.behance.net/ahmetakifcetin/"><img align="left" src="./assets/behance.png" alt="Ahmet Akif Cetin | Behance" width="24px"/></a>
-<a href="https://github.com/ahmetakifcetin/"><img align="left" src="./assets/github.png" alt="Ahmet Akif Cetin | Github" width="24px"/></a>
+<div align="center">
+                <br>
+                    <div align="center" >  
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
+			<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
+                      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
+                    </div>
+</div>
 
+<br>
+<hr>
 <br>
 
 
@@ -39,58 +55,116 @@ I'm a Graphic Designer 🎨, UI & UX Designer 🖌️ and Web Developer 🌐
 
 - 📩 **API Integration**: Developing and integrating APIs to facilitate seamless data exchange between systems and applications.
 
+<h2 align="center">Projects 🗃️</h2>
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center">Hava Durumu App UI</h3>
+				<div align="center">  
+					<a href='https://github.com/ahmetakifcetin/Hava-Durumu-App-UI' target="_blank">
+						<img src="https://github.com/ahmetakifcetin/Hava-Durumu-App-UI/blob/main/assets/banner.png?raw=true" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/ahmetakifcetin/Hava-Durumu-App-UI" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://ahmetakifcetin-eb015.web.app/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS, Javascript</strong></p>
+          <p>
+						Weather Web App UI
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">Lung Cancer Dataset Model</h3>
+				<div align="center" >  
+					<a href='https://github.com/ahmetakifcetin/lung-cancer-dataset-model' target="_blank">
+						<img src="https://github.com/ahmetakifcetin/lung-cancer-dataset-model/raw/main/assets/banner.png" 
+            alt="project 2" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/ahmetakifcetin/lung-cancer-dataset-model" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://github.com/ahmetakifcetin/lung-cancer-dataset-model" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+					</p>
+					 <p><strong>Pyhon</strong></p>
+					<p>Dataset Model</p>
+				</div>
+        </tr>
+	    <tr>
+            <td width="50%">
+                <h3 align="center">FRC Robot Code</h3>
+                <div align="center" >  
+                    <a href='https://codingphase.com' target="_blank">
+                        <img src="https://github.com/ahmetakifcetin/safrantech-arcade-drive/raw/main/assets/banner.png" alt="project 3" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>Java</strong></p>
+		    <p>ACE #8777 Robot CANbus Code</p>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center">Project 4</h3>
+                <div align="center">  
+                    <a href='https://github.com/ahmetakifcetin/Python-Donusturucu-Master' target="_blank">
+                        <img src="https://github.com/ahmetakifcetin/Python-Donusturucu-Master/raw/main/assets/banner.png" alt="project 4" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/ahmetakifcetin/Python-Donusturucu-Master" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://github.com/ahmetakifcetin/Python-Donusturucu-Master" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+                    </p>
+                    <p><strong>Python</strong></p>
+		    <p>Python MP3 Converter</p>
+                </div>	
+            </td>
+        </tr>
+	</table>
+</div>
+<br />
+<br />
+<hr>
 
-## 💫 Tech Stack
 <p align="center">
   <a href="https://www.github.com/ahmetakifcetin/" target="_blank" rel="noreferrer"><img src="./assets/giff.gif" alt="my banner"></a>
 </p>
 
----
 
-### **Programming Languages** 💻
+<h2 align="center">Contact Me</h2>
+<p align="center">
+	&nbsp&nbsp&nbsp
+	<a href="https://twitter.com/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://linkedin.com/in/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://instagram.com/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://www.youtube.com/c/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingphase" height="30" width="40" /></a>
+</p>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
----
-
-### **Frameworks & Libraries** 📚
-
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Meteor JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white) 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
-
----
-
-### **Design & Creative Tools** 🎨
-
-![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) 
-![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) 
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-
----
-
-### **Databases & Other Technologies** 📩
-
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+<hr>
 ---
 
 <h3 align="center">
