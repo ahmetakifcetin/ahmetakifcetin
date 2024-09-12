@@ -106,13 +106,13 @@ Hello my name is Akif, I am a full stack web developer. I have been working on w
             <td width="50%">
                 <h3 align="center">FRC Robot Code</h3>
                 <div align="center" >  
-                    <a href='https://codingphase.com' target="_blank">
+                    <a href='https://akifcetin.com' target="_blank">
                         <img src="https://github.com/ahmetakifcetin/safrantech-arcade-drive/raw/main/assets/banner.png" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="https://akifcetin.com" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://" target="_blank">
@@ -158,9 +158,9 @@ Hello my name is Akif, I am a full stack web developer. I have been working on w
 <h2 align="center">Contact Me 🗣️</h2>
 <p align="center">
 	&nbsp&nbsp&nbsp
-	<a href="https://www.behance.net/ahmetakifetn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://linkedin.com/in/ahmetakifcetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://github.com/ahmetakifcetin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+	<a href="https://www.behance.net/ahmetakifetn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="akifcetin" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://linkedin.com/in/ahmetakifcetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akifcetin" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://github.com/ahmetakifcetin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="akifcetin" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 </p>
 
 <hr>
