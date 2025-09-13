@@ -1,0 +1,23 @@
+<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes flicker {
+      0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
+        fill: #00ffaa;
+        text-shadow: 0 0 5px #00ffaa, 0 0 10px #00ffaa, 0 0 20px #00ffaa;
+      }
+      20%, 24%, 55% {
+        fill: #111111;
+        text-shadow: none;
+      }
+    }
+    .neon {
+      font-family: 'Courier New', monospace;
+      font-size: 48px;
+      font-weight: bold;
+      animation: flicker 2s infinite;
+    }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="neon">
+    ACCESS GRANTED :: INITIATING SYSTEM...
+  </text>
+</svg>
