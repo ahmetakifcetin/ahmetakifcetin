@@ -4,7 +4,6 @@
   </a>
 </p>
 
-<h1 align="center">⚡ Akif Çetin ⚡</h1>
 
 <p align="center">
   <img src="./assets/access-granted.svg" width="700" alt="Access Granted Animation"/>
