@@ -24,7 +24,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&height=100&section=header&text=Technical%20Arsenal&fontSize=40&fontAlign=50&animation=fadeIn&fontColor=000000" alt="Technical Arsenal" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=250&section=header&text=Technical%20Arsenal&fontSize=40&fontAlign=50&animation=fadeIn&fontColor=ffffff" alt="Technical Arsenal" width="100%" />
 </div>
 
 <div align="center">
