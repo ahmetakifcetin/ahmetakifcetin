@@ -23,7 +23,9 @@
 
 ---
 
-## 🎯 Skills
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&height=100&section=header&text=Technical%20Arsenal&fontSize=40&fontAlign=50&animation=fadeIn&fontColor=000000" alt="Technical Arsenal" width="100%" />
+</div>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -33,7 +35,9 @@
 
 ---
 
-## 🌱 Areas I've Worked On
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Core%20Competencies&fontSize=40&fontAlign=50&animation=fadeIn&fontColor=ffffff" alt="Core Competencies" width="100%" />
+</div>
 
 * 🌐 **Web Development** – Responsive & scalable apps
 * 💻 **UI/UX Design** – Intuitive interfaces with focus on experience
@@ -41,8 +45,6 @@
 * 📩 **API Integration** – Seamless data flow across systems
 
 ---
-
-## 🗂️ Featured Projects
 
 <div align="center">
 
@@ -90,8 +92,8 @@
   </a>
   <br/>
   <!-- Dynamic Stats -->
-  <a href="https://github.com/ahmetakifcetin/Hava-Durumu-App-UI/stargazers"><img src="https://img.shields.io/github/stars/ahmetakifcetin/Hava-Durumu-App-UI?style=social"/></a>
-  <a href="https://github.com/ahmetakifcetin/Hava-Durumu-App-UI/network/members"><img src="https://img.shields.io/github/forks/ahmetakifcetin/Hava-Durumu-App-UI?style=social"/></a>
+  <a href="https://github.com/ahmetakifcetin/Hava-Durumu-App-UI/stargazers"><img src="https://img.shields.io/github/stars/ahmetakifcetin/Hava-Durumu-App-UI?style=for-the-badge&color=gold&logo=star&logoColor=white"/></a>
+  <a href="https://github.com/ahmetakifcetin/Hava-Durumu-App-UI/network/members"><img src="https://img.shields.io/github/forks/ahmetakifcetin/Hava-Durumu-App-UI?style=for-the-badge&color=orange&logo=git-fork&logoColor=white"/></a>
   <br/><br/>
   
   <blockquote>
@@ -118,8 +120,8 @@
   </a>
   <br/>
   <!-- Dynamic Stats -->
-  <a href="https://github.com/ahmetakifcetin/lung-cancer-dataset-model/stargazers"><img src="https://img.shields.io/github/stars/ahmetakifcetin/lung-cancer-dataset-model?style=social"/></a>
-  <a href="https://github.com/ahmetakifcetin/lung-cancer-dataset-model/network/members"><img src="https://img.shields.io/github/forks/ahmetakifcetin/lung-cancer-dataset-model?style=social"/></a>
+  <a href="https://github.com/ahmetakifcetin/lung-cancer-dataset-model/stargazers"><img src="https://img.shields.io/github/stars/ahmetakifcetin/lung-cancer-dataset-model?style=for-the-badge&color=gold&logo=star&logoColor=white"/></a>
+  <a href="https://github.com/ahmetakifcetin/lung-cancer-dataset-model/network/members"><img src="https://img.shields.io/github/forks/ahmetakifcetin/lung-cancer-dataset-model?style=for-the-badge&color=orange&logo=git-fork&logoColor=white"/></a>
   <br/><br/>
 
   <blockquote>
@@ -144,8 +146,8 @@
   </a>
   <br/>
   <!-- Dynamic Stats -->
-  <a href="https://github.com/ahmetakifcetin/safrantech-arcade-drive/stargazers"><img src="https://img.shields.io/github/stars/ahmetakifcetin/safrantech-arcade-drive?style=social"/></a>
-  <a href="https://github.com/ahmetakifcetin/safrantech-arcade-drive/network/members"><img src="https://img.shields.io/github/forks/ahmetakifcetin/safrantech-arcade-drive?style=social"/></a>
+  <a href="https://github.com/ahmetakifcetin/safrantech-arcade-drive/stargazers"><img src="https://img.shields.io/github/stars/ahmetakifcetin/safrantech-arcade-drive?style=for-the-badge&color=gold&logo=star&logoColor=white"/></a>
+  <a href="https://github.com/ahmetakifcetin/safrantech-arcade-drive/network/members"><img src="https://img.shields.io/github/forks/ahmetakifcetin/safrantech-arcade-drive?style=for-the-badge&color=orange&logo=git-fork&logoColor=white"/></a>
   <br/><br/>
 
   <blockquote>
@@ -168,8 +170,8 @@
   </a>
   <br/>
   <!-- Dynamic Stats -->
-  <a href="https://github.com/ahmetakifcetin/Python-Donusturucu-Master/stargazers"><img src="https://img.shields.io/github/stars/ahmetakifcetin/Python-Donusturucu-Master?style=social"/></a>
-  <a href="https://github.com/ahmetakifcetin/Python-Donusturucu-Master/network/members"><img src="https://img.shields.io/github/forks/ahmetakifcetin/Python-Donusturucu-Master?style=social"/></a>
+  <a href="https://github.com/ahmetakifcetin/Python-Donusturucu-Master/stargazers"><img src="https://img.shields.io/github/stars/ahmetakifcetin/Python-Donusturucu-Master?style=for-the-badge&color=gold&logo=star&logoColor=white"/></a>
+  <a href="https://github.com/ahmetakifcetin/Python-Donusturucu-Master/network/members"><img src="https://img.shields.io/github/forks/ahmetakifcetin/Python-Donusturucu-Master?style=for-the-badge&color=orange&logo=git-fork&logoColor=white"/></a>
   <br/><br/>
 
   <blockquote>
